@@ -10,14 +10,6 @@
   - 📧 Contact me: lucasjuliomts@gmail.com
 
  </div>
- 
- <div>
-  <a href="https://github.com/LucasJulioSouza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasJulioSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJulioSouza&layout=compact&langs_count=7&theme=radical"/>
- </div>
- 
- 
  <div  style="display-flex" style="margin-bottom: 2rem" ><br>
   <img align="center" alt="Math-C" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Math-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
