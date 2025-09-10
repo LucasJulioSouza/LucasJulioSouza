@@ -6,7 +6,7 @@
 
   - 📕 I am currently studying Systems Analysis and Development at IFPR.
   - 🖋 I am currently learning Java.
-  - 🎨 Basic knowledge in HTML,CSS and C.
+  - 🎨 Basic knowledge in HTML, CSS, Php and C.
   - 📧 Contact me: lucasjuliomts@gmail.com
 
  </div>
